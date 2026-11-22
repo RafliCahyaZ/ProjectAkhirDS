@@ -1,7 +1,7 @@
 # Dry Bean Classification Project
 
 ## Isi folder
-- `Dry_Bean_Classification_Project.ipynb`: notebook utama yang berisi seluruh tahapan dan penjelasan Markdown.
+- `ProjectAkhirDS.ipynb`: notebook utama yang berisi seluruh tahapan dan penjelasan Markdown.
 
 ## Dataset
 Dataset menggunakan Dry Bean dari UCI Machine Learning Repository:
