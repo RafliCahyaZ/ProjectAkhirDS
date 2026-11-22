@@ -15,7 +15,7 @@ Notebook akan mencari `data/Dry_Bean_Dataset.xlsx` atau `Dry_Bean_Dataset.xlsx`.
 ## Cara menjalankan
 
 1. Buka folder proyek di VS Code, Jupyter Notebook, atau Google Colab.
-2. Instal dependencies:
+2. Instal dependencies
 
 3. Buka dan jalankan `ProjectAkhirDS.ipynb` dari sel paling atas sampai paling bawah.
 4. Setelah berhasil, periksa file CSV yang dihasilkan dan lengkapi bagian konklusi berdasarkan hasil aktual.
